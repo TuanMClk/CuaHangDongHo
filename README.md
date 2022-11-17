@@ -1,7 +1,7 @@
-# Fingerprint Recognition
+# Nhận diện vân tay
 
 ## Overview
-Fingerprint image classification using Random Forest, Catboost, and CNN 
+Model sử dụng Random Forest, Catboost, and CNN 
 
 ## Data
 
